@@ -1,3 +1,15 @@
-# React-OP
-基于React-dva-umi-antd后台管理系统模板
-ceshi
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
