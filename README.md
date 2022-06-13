@@ -11,5 +11,5 @@ $ yarn or npm/npx
 Start the dev server,
 
 ```bash
-$ yarn start or npm/npx
+$ yarn start or npm/npx start
 ```
