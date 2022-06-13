@@ -5,11 +5,11 @@
 Install dependencies,
 
 ```bash
-$ yarn
+$ yarn or npm/npx
 ```
 
 Start the dev server,
 
 ```bash
-$ yarn start
+$ yarn start or npm/npx
 ```
